@@ -4,7 +4,6 @@ import { useEffect, useRef, useState } from "react";
 import axios from "axios";
 import Draggable from "react-draggable";
 import { SWATCHES } from "../../../constants";
-import { MathJax } from "better-react-mathjax";
 
 // import {LazyBrush} from 'lazy-brush';
 
